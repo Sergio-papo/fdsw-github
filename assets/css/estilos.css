@@ -36,4 +36,13 @@ body {
     width: 100px;
   }
 
+  #Acerca-de-mi i {
+  color: #0dcaf0;
+  transition: transform 0.3s ease;
+}
+
+#Acerca-de-mi i:hover {
+  transform: scale(1.2);
+}
+
 }
